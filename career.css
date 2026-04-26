@@ -1,0 +1,25 @@
+nav {
+    text-align: center; 
+    background-color: lightblue; 
+}
+
+.nav a {
+    margin: 0 15px; 
+    text-decoration: none; 
+    color: darkblue; 
+    font-weight: bold; 
+}
+
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    background-color: cornsilk; 
+}
+
+h1 {
+    color: darkblue; 
+}
+
+p {
+    color: darkorchid; 
+}
