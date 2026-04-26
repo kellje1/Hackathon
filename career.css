@@ -23,3 +23,27 @@ h1 {
 p {
     color: darkorchid; 
 }
+
+.contact-box {
+    border: 2px solid darkblue; 
+    padding: 30px; 
+    margin: 150px auto; 
+    width: 300px; 
+    background-color: lightgreen; 
+}
+
+.purpose {
+    border: 2px solid darkblue; 
+    padding: 30px; 
+    margin: 150px auto; 
+    width: 500px; 
+    background-color: lightpink;
+}
+
+.interest {
+    border: 2px solid darkblue; 
+    padding: 30px; 
+    margin: 150px auto; 
+    width: 400px; 
+    background-color: lightcoral;
+}
